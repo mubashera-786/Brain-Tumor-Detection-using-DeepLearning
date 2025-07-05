@@ -3,4 +3,8 @@ Numpy
 Pandas
 Scikit-learn
 gunicorn
+Django==4.2
 tensorflow-cpu==2.10.0
+numpy
+pillow
+
