@@ -3,4 +3,4 @@ Numpy
 Pandas
 Scikit-learn
 gunicorn
-tensorflow-cup==2.10.0
+tensorflow-cpu==2.10.0
